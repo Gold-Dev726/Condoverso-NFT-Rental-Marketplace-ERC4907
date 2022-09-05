@@ -1,0 +1,28 @@
+{
+  "demo": {
+    "title": "English",
+    "introduction": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  "Homepage": {
+    "hero_title1": "Yodda Домены",
+    "hero_title2": "Низкая плата за продление",
+    "hero_desc": "Хватай свое, пока оно не исчезло навсегда. От $5+",
+    "btn_search": "Поиск",
+    "btn_connect": "Подключить кошелек",
+    "btn_gotoapp": "Перейти к приложению",
+    "stat1": "Домены зарегистрированы",
+    "stat2": "Поддерживаемые монеты + токены",
+    "stat3": "Интеграции",
+    "intro1_title": "Создание децентрализованных цифровых удостоверений для всего мира",
+    "intro1_subtitle": "Используйте домены NFT в качестве:",
+    "intro1_text1": "Универсальное имя пользователя для приложений и веб-сайтов",
+    "intro1_text2": "ссылка на сайт",
+    "intro1_text3": "Платежный адрес для кошельков",
+    "intro1_text4": "и многое другое!",
+    "browser": "Поддерживаемые браузеры",
+    "intro2_title": "Замените адреса криптовалют понятным для человека именем в UX Blockchain.",
+    "intro2_text1": "Чтобы отправить криптовалюту, все, что вам нужно знать, это домен NFT получателя.",
+    "intro2_text2": "Отправляйте биткойны, эфириум и любую другую криптовалюту с помощью всего одного домена",
+    "intro2_text3": "Больше не нужно беспокоиться об отправке на неправильный адрес"
+  }
+}

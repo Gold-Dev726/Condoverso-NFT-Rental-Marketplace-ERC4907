@@ -1,0 +1,28 @@
+{
+  "demo": {
+    "title": "English",
+    "introduction": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  "Homepage": {
+    "hero_title1": "Yodda Domaines",
+    "hero_title2": "Faibles frais de renouvellement",
+    "hero_desc": "Prenez le vôtre avant qu'il ne disparaisse pour toujours. À partir de 5 $ et plus",
+    "btn_search": "Chercher",
+    "btn_connect": "Connecter le portefeuille",
+    "btn_gotoapp": "Aller à l'App",
+    "stat1": "Domaines enregistrés",
+    "stat2": "Pièces + jetons pris en charge",
+    "stat3": "Intégrations",
+    "intro1_title": "Construire des identités numériques décentralisées pour le monde",
+    "intro1_subtitle": "Utilisez les domaines NFT comme:",
+    "intro1_text1": "Nom d'utilisateur universel dans les applications et les sites Web",
+    "intro1_text2": "URL de site web",
+    "intro1_text3": "Adresse de paiement pour les portefeuilles",
+    "intro1_text4": "et beaucoup plus!",
+    "browser": "Navigateurs pris en charge",
+    "intro2_title": "Remplacez les adresses de crypto-monnaie par un nom lisible par l'homme sur UX Blockchain",
+    "intro2_text1": "Pour envoyer de la crypto-monnaie, tout ce que vous devez savoir est le domaine NFT du destinataire",
+    "intro2_text2": "Envoyez des bitcoins, des ethereum et toute autre crypto-monnaie avec un seul domaine",
+    "intro2_text3": "Ne vous souciez plus d'envoyer à la mauvaise adresse"
+  }
+}

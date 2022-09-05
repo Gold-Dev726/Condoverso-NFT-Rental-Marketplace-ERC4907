@@ -1,0 +1,28 @@
+{
+  "demo": {
+    "title": "English",
+    "introduction": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  "Homepage": {
+    "hero_title1": "Yodda 域",
+    "hero_title2": "低续订费用",
+    "hero_desc": "在它永远消失之前抓住你的。 起价 5 美元以上",
+    "btn_search": "搜索",
+    "btn_connect": "连接钱包",
+    "btn_gotoapp": "转到应用程序",
+    "stat1": "注册域名",
+    "stat2": "支持的硬币 + 代币",
+    "stat3": "集成",
+    "intro1_title": "为世界建立去中心化的数字身份",
+    "intro1_subtitle": "使用 NFT 域作为您的：",
+    "intro1_text1": "跨应用程序和网站的通用用户名",
+    "intro1_text2": "网址",
+    "intro1_text3": "钱包的支付地址",
+    "intro1_text4": "以及更多！",
+    "browser": "支持的浏览器",
+    "intro2_title": "在 UX 区块链上用人类可读的名称替换加密货币地址",
+    "intro2_text1": "要发送加密货币，您只需要知道收件人的 NFT 域",
+    "intro2_text2": "仅使用一个域发送比特币、以太坊和任何其他加密货币",
+    "intro2_text3": "再也不用担心寄错地址了"
+  }
+}

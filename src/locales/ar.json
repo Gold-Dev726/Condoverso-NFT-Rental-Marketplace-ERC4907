@@ -1,0 +1,28 @@
+{
+  "demo": {
+    "title": "English",
+    "introduction": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  "Homepage": {
+    "hero_title1": "Yodda المجالات",
+    "hero_title2": "رسوم تجديد منخفضة",
+    "hero_desc": "احصل على ما تفضله قبل أن تختفي إلى الأبد. بدءًا من 5 دولارات",
+    "btn_search": "بحث",
+    "btn_connect": "ربط المحفظة",
+    "btn_gotoapp": "انتقل إلى التطبيق",
+    "stat1": "المجالات المسجلة",
+    "stat2": "عملات معدنية + الرموز المدعومة",
+    "stat3": "تكاملات",
+    "intro1_title": "بناء هويات رقمية لامركزية للعالم",
+    "intro1_subtitle": "استخدم مجالات NFT على أنها:",
+    "intro1_text1": "اسم مستخدم عالمي عبر التطبيقات والمواقع الإلكترونية",
+    "intro1_text2": "رابط الموقع",
+    "intro1_text3": "عنوان الدفع للمحافظ",
+    "intro1_text4": "وأكثر بكثير!",
+    "browser": "المتصفحات المدعومة",
+    "intro2_title": "استبدل عناوين العملة المشفرة باسم قابل للقراءة البشرية على",
+    "intro2_text1": "لإرسال عملة مشفرة ، كل ما تحتاج إلى معرفته هو نطاق NFT للمستلم",
+    "intro2_text2": "أرسل البيتكوين والإيثريوم وأي عملة مشفرة أخرى بنطاق واحد فقط",
+    "intro2_text3": "لا داعي للقلق بشأن الإرسال إلى العنوان الخطأ"
+  }
+}
